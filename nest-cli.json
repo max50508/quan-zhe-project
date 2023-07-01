@@ -3,6 +3,6 @@
   "sourceRoot": "src",
   "compilerOptions": {
     "webpack": true,
-    "assets": ["**/*.env", "**/*.env.*"]
+    "assets": ["**/*.env", "**/*.env.*", "**/*.html"]
   }
 }
